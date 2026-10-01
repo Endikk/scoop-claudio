@@ -1,17 +1,17 @@
 {
-    "version": "1.0.0-beta.1",
+    "version": "1.0.0-beta.2",
     "description": "Your real Claude quotas, on your Windows desktop.",
     "homepage": "https://github.com/Endikk/Claudio",
     "license": "MIT",
     "notes": "Claudio sits next to the clock. On Windows 11, drag its icon out of the ^ overflow menu to keep it in sight.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Endikk/Claudio/releases/download/v1.0.0-beta.1/Claudio-win-x64-Portable.zip",
-            "hash": "c645d4f3ddbefb3a4461f6288fa36c927ad7feec6194e25415eb0b05c55d127a"
+            "url": "https://github.com/Endikk/Claudio/releases/download/v1.0.0-beta.2/Claudio-win-x64-Portable.zip",
+            "hash": "2fb2b6874de449126af19cf9cffc32741ef7e78480d8a9dd6a47840f148caf1f"
         },
         "arm64": {
-            "url": "https://github.com/Endikk/Claudio/releases/download/v1.0.0-beta.1/Claudio-win-arm64-Portable.zip",
-            "hash": "8772833e3eef8525f707d7d88708bebc2ad16b649a197f92e69eeb551cc24f73"
+            "url": "https://github.com/Endikk/Claudio/releases/download/v1.0.0-beta.2/Claudio-win-arm64-Portable.zip",
+            "hash": "3a60402452ee1425c43fa6fd99ee51508abc224c2d29d10da2c34fd53e55c13c"
         }
     },
     "shortcuts": [
